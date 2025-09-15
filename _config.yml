@@ -1,0 +1,8 @@
+title: My portfolio
+name: Julian Ramirez
+email: ramirezjulian519@gmail.com
+
+collections: 
+  design:
+    output: true
+    permalink: /:collection/:path/
